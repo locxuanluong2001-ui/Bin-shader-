@@ -1,0 +1,6 @@
+{
+  "name": "Lazurite Web - MCBE RenderDragon Shader Studio",
+  "description": "Xử lý trực tiếp tệp shader .material.bin cho Minecraft Bedrock Android - Tự động giải nén (unpack) và đóng gói (pack) không cần dòng lệnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
